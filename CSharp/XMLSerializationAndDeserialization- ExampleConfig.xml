@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VersionMajor>0</VersionMajor>
+  <VersionMinor>1</VersionMinor>
+  <Admins>
+    <string>aaa</string>
+  </Admins>
+  <ConnString>Data Source=[ap]\\finalwar.sdf</ConnString>
+  <Notice>Tech: fixed data changing.</Notice>
+</Config>

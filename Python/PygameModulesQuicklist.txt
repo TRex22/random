@@ -1,0 +1,15 @@
+cdrom - manage cdrom devices and audio playback
+cursors - load cursor images, includes standard cursors
+display - control the display window or screen
+draw - draw simple shapes onto a Surface
+event - manage events and the event queue
+font - create and render Truetype fonts
+image - save and load images
+joystick - manage joystick devices
+key - manage the keyboard
+mouse - manage the mouse
+movie - playback of mpeg movies
+sndarray - manipulate sounds with Numeric
+surfarray - manipulate images with Numeric
+time - control timing
+transform - scale, rotate, and flip images
