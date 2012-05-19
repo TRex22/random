@@ -60,9 +60,9 @@ bool ListIntersects(Rectangle *rects[16], Rectangle *rect, int count)
 	return false;
 }
 
-int Next()
+int Next(int MAX)
 {
-	return rand() % max;
+	return rand() % MAX;
 }
 
 int _tmain(int argc, _TCHAR* argv[])
