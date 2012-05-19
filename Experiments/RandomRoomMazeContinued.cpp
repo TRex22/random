@@ -60,7 +60,7 @@ bool ListIntersects(Rectangle *rects[16], Rectangle *rect, int count)
 	return false;
 }
 
-int Next(int max)
+int Next()
 {
 	return rand() % max;
 }
