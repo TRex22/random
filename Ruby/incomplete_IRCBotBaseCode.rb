@@ -295,8 +295,8 @@ class EBot
 end
 
 
-bot = EBot.new("[cc]announce","za.shadowfire.org",6667, "3fPNbL5rdXvlvfHtfE8JOWLv")
-bot.db_connect("apocalypse-gfx.com","demigod_gaming","demigod_ircbot","qTk*s?qR$T}c")
+bot = EBot.new("[cc]announce","za.shadowfire.org",6667, "")
+bot.db_connect("apocalypse-gfx.com","demigod_gaming","demigod_ircbot","")
 bot.connect()
 bot.send_udata()
 bot.listen()
