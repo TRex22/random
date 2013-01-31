@@ -1,0 +1,1 @@
+<?php  //TODO alow users to retrieve password?><div class="menu"><?php	include("menu.inc.php");?></div>This has yet to be implemented.<br /><a href="fbsim.php">Back</a>
